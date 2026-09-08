@@ -1,1 +1,2 @@
-Hello Github world. Im Che Adam and I'm new to these apps.
+#hello world
+this is my assignment submission. Thank you and have a great day! :>
