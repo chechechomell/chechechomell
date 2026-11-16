@@ -4,7 +4,7 @@
 - 🎓 **Undergraduate** studying Computer Science and Engineering in Seoul National University of Science and Technology, South Korea.
 - 🔭 **Currently Working On:-**
       1. An open-source isoline topography & watershed visualization system using Python & DEM data.
-      2. Isoline topography and watershed interactive regional exploration web.
+      2. Topography & Regional Exploration Platform using JavaScript, HTML and CSS.
       3. Watershed Runoff Management System using Java and MySQL.
 - 💡 **Interests:** Geospatial analysis, software architecture, digital logic design, and interactive web tools.
 - 🎨 **Creative pursuits:** Digital graphic design.
